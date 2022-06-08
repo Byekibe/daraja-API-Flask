@@ -1,0 +1,4 @@
+Flask-Test = "https://sandbox.safaricom.co.ke/mpesa/c2b/v1/registerurl"
+
+
+
